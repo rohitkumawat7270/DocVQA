@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+pillow
+tqdm
+levenshtein
+datasets
